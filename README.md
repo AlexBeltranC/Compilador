@@ -18,7 +18,8 @@ Este repositorio contiene la documentación completa del compilador.
 
 
 ## Ejemplos de uso
-Formas de declarar una variable
+Formas de declarar una variable.
+
 ![Declaraciones](https://github.com/user-attachments/assets/a20593e0-8c96-4600-b249-70b84f458235)
 
 Formas de usar imprimir
