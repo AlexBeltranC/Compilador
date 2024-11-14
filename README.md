@@ -17,7 +17,6 @@ Este repositorio contiene la documentación completa del compilador.
 ![Interfaz](https://github.com/user-attachments/assets/78b89f5a-026c-4708-915d-015f7d148a3c)
 
 
-
 ## Ejemplos de uso
 Formas de declarar una variable
 ![Declaraciones](https://github.com/user-attachments/assets/a20593e0-8c96-4600-b249-70b84f458235)
