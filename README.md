@@ -16,6 +16,24 @@ Este repositorio contiene la documentación completa del compilador.
 ## Interfaz
 ![Interfaz](https://github.com/user-attachments/assets/78b89f5a-026c-4708-915d-015f7d148a3c)
 
+
+
+## Ejemplos de uso
+Formas de declarar una variable
+![Declaraciones](https://github.com/user-attachments/assets/a20593e0-8c96-4600-b249-70b84f458235)
+
+Formas de usar imprimir
+![Imprimir](https://github.com/user-attachments/assets/b183d8f3-2d09-4d82-8092-cf4b47e88f65)
+
+Forma para usar leer. para almacenar de forma dinamica un valor a una variable
+![leer](https://github.com/user-attachments/assets/6fb60e6a-2b19-448d-bfd0-1925b27aaca4)
+
+Quieres Realizar operaciones basicas
+![Operaciones Basicas](https://github.com/user-attachments/assets/66aac7df-389d-4fdc-88fc-e8346b27abc0)
+
+Forma de usar la estrcutura si
+![FormasEstructuraSi](https://github.com/user-attachments/assets/636ce3c5-4d95-4735-8ab2-f6fd8edd8edf)
+
 ## Usar el cambio de palabras
 Para poder cambiar las palabras reservadas tienes que ir al aparatado de Configuracion
 ![CambioPalabras](https://github.com/user-attachments/assets/f50845e1-c092-4cfc-8dab-b0ad8b612f9d)
